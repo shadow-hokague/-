@@ -1,0 +1,8 @@
+[2023-07-21 22:44:51] [Exception] Plugin does not exist. in C:\xampp\htdocs\suplike\plugins\PluginSystem\Manager.php on line 87
+[2023-07-21 22:45:39] [Exception] Plugin does not exist. in C:\xampp\htdocs\suplike\plugins\PluginSystem\Manager.php on line 87
+[2023-07-21 22:46:41] [Exception] Plugin does not exist. in C:\xampp\htdocs\suplike\plugins\PluginSystem\Manager.php on line 87
+[2023-07-22 00:45:50] [Exception] Plugin does not exist. in C:\xampp\htdocs\suplike\plugins\PluginSystem\Manager.php on line 86
+[2023-07-22 00:46:56] [Exception] Plugin does not exist. in C:\xampp\htdocs\suplike\plugins\PluginSystem\Manager.php on line 86
+[2023-07-22 01:11:28] [Exception] Plugin does not exist. in C:\xampp\htdocs\suplike\plugins\PluginSystem\Manager.php on line 86
+[2023-07-23 01:10:41] [Exception] Plugin does not exist. in C:\xampp\htdocs\suplike\plugins\PluginSystem\Manager.php on line 86
+[2023-07-23 01:11:16] [Exception] Plugin does not exist. in C:\xampp\htdocs\suplike\plugins\PluginSystem\Manager.php on line 86
