@@ -1,7 +1,7 @@
 <?php
 $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";
 
-if (!defined('DB_DATABASE')) define('DB_DATABASE', 'suplike');
+if (!defined('DB_DATABASE')) define('DB_DATABASE', 'alaye_db');
 if (!defined('DB_HOST')) define('DB_HOST', 'mysql-alaye.alwaysdata.net');
 if (!defined('DB_USERNAME')) define('DB_USERNAME', 'alaye');
 if (!defined('DB_PASSWORD')) define('DB_PASSWORD', '@Motdepasse0000');
